@@ -1,1 +1,2 @@
-# Cluster-Analysis-with-Iris-Flower
+Apply the cluster analysis to the datset of 150 Iris flowers that contains the information of sepal and petal length and width.Choose the suitable cluster numbers by
+measuring the WCSS. Explore the two kinds of cluster analysis that with both nonstandardized and standardized variables. Visualize the clustering results with both sepal and petal variables in both nonstandardized and standardized settings. 
